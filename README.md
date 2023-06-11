@@ -9,10 +9,10 @@ apenas um projeto  simples de usuário para demonstração de
 Esse projeto está em desenvolvimento,  vai ser disponibilizado uma apostila ensinando passo a passo quando eu tiver um tempinho livre rs 
 
 O que será usado aqui 
-no front-end: estarei trabalhando com angular/typescript 
+- front-end: estarei trabalhando com angular/typescript 
 
-no back-end : java/Spring Boot 
-base de banco de dados : sql / mysql 
+- back-end : java/Spring Boot 
+-base de banco de dados : sql / mysql 
 
 
 
