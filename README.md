@@ -3,7 +3,7 @@ teste login e cadastro de usuário com criptografia de dados
 
 apenas um projeto  simples de usuário para demonstração de 
 - Criptografia de dados,
-- Autentificarão de usuário
+- Autenticação  de usuário/ credenciais de acesso 
 - Demonstração de Crud
 
 Esse projeto está em desenvolvimento,  vai ser disponibilizado uma apostila ensinando passo a passo quando eu tiver um tempinho livre rs 
@@ -13,6 +13,8 @@ no front-end: estarei trabalhando com angular/typescript
 
 no back-end : java/Spring Boot 
 base de banco de dados : sql / mysql 
+
+
 
 
 #tela de login 
