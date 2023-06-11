@@ -1,6 +1,19 @@
 # dataEncryption
 teste login e cadastro de usuário com criptografia de dados
 
+apenas um projeto  simples de usuário para demonstração de 
+- Criptografia de dados,
+- Autentificarão de usuário
+- Demonstração de Crud
+
+Esse projeto está em desenvolvimento,  vai ser disponibilizado uma apostila ensinando passo a passo quando eu tiver um tempinho livre rs 
+
+O que será usado aqui 
+no front-end: estarei trabalhando com angular/typescript 
+
+no back-end : java/Spring Boot 
+base de banco de dados : sql / mysql 
+
 
 #tela de login 
 ![image](https://github.com/fernandacorreasz/dataEncryption/assets/81102579/99b0f7e2-87ef-4774-896b-608df520e700)
